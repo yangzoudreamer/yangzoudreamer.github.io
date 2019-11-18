@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in China, Huazhong University of Science and Technology, 2013
-* M.S. in China, Fudan University, 2017,Supervisor: Professor Min Yang
+* M.S. in China, Fudan University, 2017, Supervisor: Professor Min Yang
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 <!-- Work experience
