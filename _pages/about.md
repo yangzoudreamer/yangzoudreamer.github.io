@@ -12,4 +12,4 @@ I am a PhD. student at [CISPA Helmholtz Center for Information Security](https:/
 
 My research mainly concentrates on security & privacy in the modern society. Topics include machine learning privacy, social network privacy, and location privacy. Besides, I also work on mobile security.
 
-From September 2019, I am a PhD. student with Prof.Dr.Dr. Michael Backes at CISPA. Prior to that, I obtained my bachelor degree (2009~2013) from Huazhong University of Science and Technology, and I obtained my master degree(2014~2017) from Fudan University, China.
+From September 2019, I am a PhD. student with Prof.Dr.Dr. Michael Backes at CISPA. Prior to that, I obtained my bachelor degree (2013.6) from Huazhong University of Science and Technology, and I obtained my master degree(2017.1) from Fudan University, China.
