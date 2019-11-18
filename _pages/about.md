@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD. student at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/), [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/).
+I am a PhD. student at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/),  [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/).
 
 My research mainly concentrates on security & privacy in the modern society. Topics include machine learning privacy, social network privacy, and location privacy. Besides, I also work on mobile security.
 
