@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yang Zou(邹阳)"
 title_separator          : "-"
 name                     : &name "Yang Zou(邹阳)"
-description              : &description "personal description"
+description              : &description "PhD. student at CISPA"
 url                      : https://yangzoudreamer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangzoudreamer/yangzoudreamer.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Yang Zou(邹阳)"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "PhD. student"
   location         : "Saarbruecken Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #""
-  email            :
+  email            : "yang.zou@cispa.saarland"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
