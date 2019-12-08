@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD. student at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/),  [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/).
+I am a Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/),  [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/).
 
-My research mainly concentrates on security & privacy in the modern society. Topics include machine learning privacy, social network privacy, and location privacy. Besides, I also work on mobile security.
+My research mainly focus on machine learning privacy.
 
-From September 2019, I am a PhD. student with Prof.Dr.Dr. Michael Backes at CISPA. Prior to that, I obtained my bachelor degree (2013.6) from Huazhong University of Science and Technology, and I obtained my master degree(2017.1) from Fudan University, China.
+I am a PhD. student at CISPA under the supervision of Prof.Dr.Dr. Michael Backes. 
+Master degree achieved from Fudan University, China. 
+Bachelar degree achieved from Huazhong University of Science and Technology, China.
