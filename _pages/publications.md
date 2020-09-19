@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Preprint
 * <b>Privacy Analysis of Deep Learning in the Wild: Membership Inference Attacks against Transfer Learning</b>. <br>
-<b>Yang Zou</b>, Zhikun Zhang, Michael Backes, Yang Zhang</i>.<br>
+<b>Yang Zou</b>, Zhikun Zhang, Michael Backes, Yang Zhang.<br>
 [[arxiv]](https://arxiv.org/abs/2009.04872)
 <!-- [[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf) -->
 <!-- [[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) -->
