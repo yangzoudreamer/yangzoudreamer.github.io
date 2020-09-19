@@ -12,5 +12,5 @@ I am a Ph.D. student at [CISPA Helmholtz Center for Information Security](https:
 
 My research mainly focus on machine learning privacy.
 
-I am a PhD. student at CISPA under the supervision of Prof.Dr.Dr.h.c Michael Backes and daily work with Dr.Yang Zhang. 
+I am a PhD. student at CISPA under the supervision of Prof. Dr. Dr. h.c [Michael Backes](https://cispa.saarland/director/) and daily work with Dr. [Yang Zhang](https://yangzhangalmo.github.io/). 
 Prior to that, I achieved my bachelor degree from Huazhong University of Science and master degree from Fudan University, China.
