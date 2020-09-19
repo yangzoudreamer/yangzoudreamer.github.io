@@ -1,14 +1,15 @@
 ---
-title: "Efficient kernel selection via spectral analysis"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publications/sm
-venue: "In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017)"
-date: 2017-8-19
-citation: '<b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017) </i>.'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-[[PDF]](https://superlj666.github.io/files/sm.pdf)
-[[Poster]](https://superlj666.github.io/files/ijicai-poster-0816.pdf)
-[[Slide]](https://superlj666.github.io/files/IJCAI_presentation.pptx)
+This paper is about the number 1. The number 2 is left for future work.
 
-## Abstract
-Kernel selection is a fundamental problem of kernel methods. Existing measures for kernel selection either provide less theoretical guarantee or have high computational complexity. In this paper, we propose a novel kernel selection criterion based on a newly defined spectral measure of a kernel matrix, with sound theoretical foundation and high computational efficiency. We first show that the spectral measure can be used to derive generalization bounds for some kernel-based algorithms. By minimizing the derived generalization bounds, we propose the kernel selection criterion with spectral measure. Moreover, we demonstrate that the popular minimum graph cut and maximum mean discrepancy are two special cases of the proposed criterion. Experimental results on lots of data sets show that our proposed criterion can not only give the comparable results as the state-of-the-art criterion, but also significantly improve the efficiency.
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
